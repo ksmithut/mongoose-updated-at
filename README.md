@@ -32,14 +32,14 @@ To pass in options:
 
 ```javascript
 MySchema.plugin(require('mongoose-updated-at'), {
-  updatedAtPath: 'createdAt',
+  updatedAtPath: 'updatedAt',
   index: false
 });
 ```
 
 # Options
 
-* `updatedAtPath` (String) - The path to add the createdAt property. Default:
+* `updatedAtPath` (String) - The path to add the updatedAt property. Default:
   `'updatedAt'`
 * `index` (Mixed) - The indexing options given to this field. See
   [http://mongoosejs.com/docs/api.html#schematype_SchemaType-index](http://mongoosejs.com/docs/api.html#schematype_SchemaType-index).
