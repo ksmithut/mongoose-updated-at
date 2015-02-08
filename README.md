@@ -1,7 +1,10 @@
 # mongoose-updated-at
 
+[![io.js compatibility](https://img.shields.io/badge/io.js-compatible-brightgreen.svg?style=flat)](https://iojs.org/)
 [![NPM version](http://img.shields.io/npm/v/mongoose-updated-at.svg?style=flat)](https://www.npmjs.org/package/mongoose-updated-at)
-[![Dependency Status](http://img.shields.io/gemnasium/ksmithut/mongoose-updated-at.svg?style=flat)](https://gemnasium.com/ksmithut/mongoose-updated-at)
+
+[![Dependency Status](http://img.shields.io/david/ksmithut/mongoose-updated-at.svg?style=flat)](https://gemnasium.com/ksmithut/mongoose-updated-at)
+[![Dev Dependency Status](http://img.shields.io/david/dev/ksmithut/mongoose-updated-at.svg?style=flat)](https://gemnasium.com/ksmithut/mongoose-updated-at)
 [![Code Climate](http://img.shields.io/codeclimate/github/ksmithut/mongoose-updated-at.svg?style=flat)](https://codeclimate.com/github/ksmithut/mongoose-updated-at)
 [![Build Status](http://img.shields.io/travis/ksmithut/mongoose-updated-at.svg?style=flat)](https://travis-ci.org/ksmithut/mongoose-updated-at)
 [![Coverage Status](http://img.shields.io/codeclimate/coverage/github/ksmithut/mongoose-updated-at.svg?style=flat)](https://codeclimate.com/github/ksmithut/mongoose-updated-at)
